@@ -6,15 +6,12 @@ This repository presents a deep learning pipeline for classifying driver inatten
 
 ```
 Driver_Inattention_Classification/
-├── data/                            # Placeholder for dataset (not included)
 ├── notebooks/                       # Jupyter notebooks for the pipeline
 │   ├── Task_1-7.ipynb               # EDA, preprocessing, augmentation
 │   ├── Task_8.ipynb                 # CNN training & evaluation
 │   └── Task_10_Kaggle.ipynb         # Submission preparation
-├── figures/                         # Accuracy/loss curves, evaluation visuals
 ├── docs/
 │   └── driver_inattention_task_summary.txt  # Task summary
-├── requirements.txt                 # Python dependencies
 ├── README.md                        # Project overview
 ```
 
